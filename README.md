@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Mlowegene](https://github.com/Mlowegene/Stats-preview-card-component)
+- Live Site URL: [Stats Preview Card](https://mlowegene.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -42,5 +42,5 @@ On this project, I learned to use bootstrap 5 on styling my project.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Stats Preview Card](https://mlowegene.github.io/Stats-preview-card-component/)
+- Frontend Mentor - [@Mlowegene](https://www.frontendmentor.io/profile/Mlowegene)
